@@ -1,6 +1,6 @@
-# PIGE-DTI
+# PIDE-DTI
 
-To Train PIGE_DTI, run
+To Train PIDE_DTI, run
 
     - python src/main.py 
 
