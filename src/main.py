@@ -22,7 +22,7 @@ from physics_diffusion import (
 )
 from model import DNN
 
-parser = argparse.ArgumentParser(description="RUN PIGE-DTI TRAINING")
+parser = argparse.ArgumentParser(description="RUN PDDMA-DTI TRAINING")
 parser.add_argument('--device', default='cuda:0', type=str, help='Device for Training')
 parser.add_argument('--dataset', default='human', type=str, help='Dataset to use')
 
