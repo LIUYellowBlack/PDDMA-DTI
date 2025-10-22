@@ -1,6 +1,6 @@
-# PIDE-DTI
+# [PDDMA-DTI]
 
-To Train PIDE_DTI, run
+To Train PDDMA-DTI, run
 
     - python src/main.py 
 
@@ -28,7 +28,7 @@ you can use data_proc.py by:
 
 
 ### Requirements
-PIGE_DTI is tested to work under Python 3.6.2  
+PDDMA-DTI is tested to work under Python 3.6.2  
 The required dependencies for NASNet_DTI are Keras, PyTorch, TensorFlow, numpy, pandas, scipy, and scikit-learn.
 
 
